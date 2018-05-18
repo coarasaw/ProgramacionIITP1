@@ -1,0 +1,4 @@
+D:\CoarasaW\EjemplosC#_2018\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\CoarasaW\EjemplosC#_2018\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\CoarasaW\Casa\BajadoIntranet\01_Notas_Interes\01_UTN\2018\ProgII\ProgramacionII\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\UTN\2018\ProgII\ProgramacionII\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config

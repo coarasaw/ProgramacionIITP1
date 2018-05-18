@@ -1,0 +1,4 @@
+E:\UTN\2018\ProgII\ProgramacionII\Calculadora\Entidades\bin\Debug\Entidades.exe.config
+C:\01_Adm_Wally\UTN\2018\ProgII\ProgramacionII\Calculadora\Entidades\bin\Debug\Entidades.exe.config
+C:\01_Adm_Wally\UTN\2018\ProgII\ProgramacionII\Calculadora\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\CoarasaW\Casa\BajadoIntranet\01_Notas_Interes\01_UTN\2018\ProgII\ProgramacionII\Calculadora\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
